@@ -1,0 +1,14 @@
+
+  
+ul{
+    padding-left: 0px;
+}
+.img-fluid{
+    min-width: 72px;
+}
+tr:nth-of-type(even){
+    background-color: lightgray;
+}
+.point{
+    cursor: pointer 
+}
