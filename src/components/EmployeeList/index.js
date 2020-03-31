@@ -1,5 +1,5 @@
 import React from "react";
-import Employee from "../employee";
+import Employee from "../Employee";
 import "./style.css";
 
 // Whenever we try to render an array containing JSX, React knows to render each JSX element separately
