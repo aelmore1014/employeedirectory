@@ -4,7 +4,6 @@
   "engines": {
     "node": "12.13.1",
     "npm": "6.12.1"
-    
   },
   "private": true,
   "dependencies": {
